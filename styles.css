@@ -25,7 +25,8 @@ body {
     color: #2b2839
              solid #d8cefe;
     border: 3px solid;
-    border-color: #d8cefe yellow blue #d47816;    
+    border-color: #d8cefe yellow blue #d47816; 
+    filter: drop-shadow(0 0 0.75rem crimson);   
     /*
     Challenge:
     Find a color palette you like on Coolors.co
